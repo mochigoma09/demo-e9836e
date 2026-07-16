@@ -1,2 +1,3 @@
 # demo-e9836e
-Auto generated demo site for 珈琲西武 本店
+
+AIによって自動生成された 珈琲西武 本店 様向けのデモサイトです。
